@@ -7,7 +7,7 @@
 	"features": {
 		"ghcr.io/rjfmachado/devcontainer-features/cloud-native:1": {
 			"kubectl": "latest"
-		},
+		}
 
 	}
 
